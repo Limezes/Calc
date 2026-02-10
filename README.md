@@ -23,7 +23,7 @@
 
 ## 🎥 Демонстрации
 
-| ![GIF 1]() | ![GIF 2]() |
+| ![GIF 1](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzd2YTYzcjh6eHl1eWM3ZzM2bGpqMDRlNGUyeDVlNmNmY3VkYmdwZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7TKRIo0WSvarDEPe/giphy.gif) | ![GIF 2](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXBoMzBzbTJuOXV3OXF6eGk5cG9tNWpkYnRmc2RvYTFybHZzbmdnMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0MYyW1RMcZQSKG2I/giphy.gif) |
 |------------------------------|------------------------------|
 
 
